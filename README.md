@@ -31,7 +31,7 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 It checks 20 consecutive frames and if the Eye Aspect ratio is lesst than 0.25, Alert is generated.
 
 #### Relationship
-![alt text](https://github.com/Nuclearstar/Drowsiness_Detection/blob/master/Detection_for_videos/eye2.jpg)
+![alt text](https://github.com/Nuclearstar/Drowsiness_Detection/blob/master/Detection_for_videos/eye2.png)
 
 #### Summing up
 ![alt text](https://github.com/Nuclearstar/Drowsiness_Detection/blob/master/Detection_for_videos/eye3.jpg)
