@@ -25,16 +25,16 @@ To run the code, type python Drowsiness_Detection.py
 
 ### Algorithm
 Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye:
-![alt text](https://raw.githubusercontent.com/Nuclearstar/Drowsiness_Detection/Detection_for_videos/eye1.jpg)
+![alt text](https://github.com/Nuclearstar/Drowsiness_Detection/blob/master/Detection_for_videos/eye1.jpg)
 
 ### Condition
 It checks 20 consecutive frames and if the Eye Aspect ratio is lesst than 0.25, Alert is generated.
 
 #### Relationship
-![alt text](https://raw.githubusercontent.com/Nuclearstar/Drowsiness_Detection/Detection_for_videos/eye2.jpg)
+![alt text](https://github.com/Nuclearstar/Drowsiness_Detection/blob/master/Detection_for_videos/eye2.jpg)
 
 #### Summing up
-![alt text](https://raw.githubusercontent.com/Nuclearstar/Drowsiness_Detection/Detection_for_videos/eye3.jpg)
+![alt text](https://github.com/Nuclearstar/Drowsiness_Detection/blob/master/Detection_for_videos/eye3.jpg)
 
 For more information [look here](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/).
 
