@@ -1,15 +1,20 @@
 # Drowsiness_Detection
 
 This repository contains two implementations for driver drowsiness detection via 
-1. eye monitoring being it closed or opened (Detection_for_images).
-2. real-time video stream (Detection_for_videos). 
+1. Eye monitoring being it closed or opened (Detection_for_images).
+2. Real-time video stream (Detection_for_videos). 
 
 ### Code Requirements
 pip install dlib
+
 pip install skimage
+
 pip install scipy
+
 pip install numpy
+
 pip install cv2
+
 pip install imutils
 
 ### Dataset
