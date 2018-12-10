@@ -5,23 +5,19 @@ This repository contains two implementations for driver drowsiness detection via
 2. Real-time video stream (Detection_for_videos). 
 
 ### Code Requirements
-pip install dlib
-
-pip install skimage
-
-pip install scipy
-
-pip install numpy
-
-pip install cv2
-
-pip install imutils
+1. pip install dlib
+2. pip install skimage
+3. pip install scipy
+4. pip install numpy
+5. pip install cv2
+6. pip install imutils
 
 ### Dataset
 You can download a trained facial shape predictor from: http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 ### Procedure in Implementation 1
 Python code: Simple app to detect the status of eye being closed or opened (sleep_detection.py (test1.jpg and test2.jpg are for testing))
+
 Run using the command, python sleep_detection.py /path/to/shape_predictor_68_face_landmarks.dat test1.jpg
 
 ### Procedure in Implementation 2
